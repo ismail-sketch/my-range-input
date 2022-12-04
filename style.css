@@ -9,10 +9,10 @@
 .input-range-wrp {
   position: relative;
   cursor: pointer;
-  width: 300px;
+  width: 500px;
   -webkit-transform: translate(-18px, 3px);
           transform: translate(-18px, 3px);
-  margin-left: 150px;
+  margin: 0 auto;
   margin-top: 150px;
 }
 
